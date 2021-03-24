@@ -1,0 +1,29 @@
+    /*Color Background*/
+
+body{
+    background-color:lightgoldenrodyellow;
+}
+
+    /*Color etiqueta p*/
+
+p, h1{
+    color:black;
+}
+
+.rojo{
+    color: red;
+}
+
+    /*Selector de Clase*/
+
+.azul{
+    color: blue;
+}
+
+#saludo, #parrafoid{
+    color: aqua;
+}
+
+#parrafoid{
+    font-size: 19px;
+}

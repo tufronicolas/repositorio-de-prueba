@@ -1,0 +1,62 @@
+/* TITULOS */
+
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 72px;
+}
+
+/* Home About... */
+
+.iconos{
+    text-align: right;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a{
+    text-align: right;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    }
+
+/* menu */
+
+.menu{
+    background-color: rgba(250, 250, 250, 0.4);
+    text-align: right;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+/* IMAGEN FONDO */
+
+body{
+    background-image:url(../img/about.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 1475px;
+}
+
+/* P */
+
+.texto{
+    line-height: 4px;
+    color: rgb(61, 163, 105);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 0.922cm;
+}
+
+/* MINI TEXTO */
+
+.minitexto{
+    color: rgb(61, 163, 105);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

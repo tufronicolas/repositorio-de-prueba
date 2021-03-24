@@ -1,0 +1,34 @@
+/* RUTAS */
+
+
+a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+/* EMILIA COLE */
+
+h2{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 50px;
+}
+
+/* TITULOS*/
+
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 72px;
+    background-color: rgba(250, 250, 250, 0.3);
+
+}
+
+/* IMAGEN */
+ body{
+     background-image:url(../img/home.jpg);
+     background-repeat: no-repeat;
+     background-position: top right;
+     background-size: 1315px;
+ }
+
